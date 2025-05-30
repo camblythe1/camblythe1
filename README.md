@@ -1,14 +1,22 @@
-- 👋 Hi, I’m Cameron Blythe - Businesss Analyst
+- 👋 Hi, I’m Cameron Blythe - Business Analyst
 - Welcome to my GitHub profile! 
-- Iam a Business Analyst with a passion for turning data into solutions to solve all business problems by providing insights , data storytelling, stakeholder collaboration, and utilization of analytical tools.
-  ## What I do
-- **Data Analysis & Visualization**: Using SQL, Excel, Power BI & Tableau to discover trends and patterns.
-- **Process Improvement**: Collaborating acrosss teams to streamline workflows and deliver value.
--**Reporting & Dashboarding**: Automating reports, building dashboards, and tracking KPIs for strategic decisions.
--**Business Documentation**: Creating user stories, requirement documents, and flow/detailed diagrams to clarify solutions.
-- ⚡ Fun fact: ... I enjoy crafting my own herbal medicine and skincare as a hobby.
+I'm a Business Intelligence Analyst passionate about turning data into actionable insights. With a background in sales and marketing and a growing skill set in SQL, Power BI, Tableau, and Python, I create tools and dashboards that help businesses make better decisions.
 
-<!---
-camblythe1/camblythe1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Skills & Tools
+- **BI Tools**: Power BI, Tableau, Looker
+- **Databases**: SQL, MySQL
+- **Languages**: SQL, Python 
+- **Other**: Excel, Google Sheets, Data Cleaning, Data Visualization, A/B Testing, Sales, Salesforce CRM, 
+
+## 📊 Featured Projects
+🔹 [Zomato Project – Tableau](https://github.com/camblythe1/https://public.tableau.com/shared/4SH7RYT5R?:display_count=n&:origin=viz_share_link)  
+A restaurant analysis project on Tableau to show what restaurants are popular and what restaurants generate the most revenue.
+
+🔹 [Business Analytics Project –Excel ](https://github.com/camblythe1/https://docs.google.com/spreadsheets/d/1uHUIXHBl6IhguRGeGUVuLxsCodFVTShxccOW_2_4dfM/edit?usp=sharing)  
+This project analyzes customer purchasing patterns for an e-commerce company to uncover insights that can drive marketing, inventory, and retention strategies. Using historical transaction data, we explored key metrics such as customer lifetime value (CLV), average order value (AOV), purchase frequency, and seasonal trends.
+
+🔹 [Shopify App Analysis Project – Power BI ](https://github.com/camblythe1/https://docs.google.com/spreadsheets/d/1uHUIXHBl6IhguRGeGUVuLxsCodFVTShxccOW_2_4dfM/edit?usp=sharing)  
+A project to analyze user interaction data from a Shopify-integrated app to better understand customer behavior, improve user experience, and drive app engagement and retention.
+
+## 📫 How to reach me
+[LinkedIn](https://www.linkedin.com/in/cameron-blythe888) • [Email](Cameronblythe1@email.com)
