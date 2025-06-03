@@ -12,7 +12,7 @@ I'm a Business Intelligence Analyst passionate about turning data into actionabl
 🔹 [Restaurant Analysis Project – Tableau](https://github.com/camblythe1/Restaurant-analysis-)  
 A restaurant analysis project using data from Zamoto on Tableau to show what restaurants are popular and what restaurants generate the most revenue.
 
-🔹 [Business Analytics Project –Excel ](https://github.com/camblythe1/https://docs.google.com/spreadsheets/d/1uHUIXHBl6IhguRGeGUVuLxsCodFVTShxccOW_2_4dfM/edit?usp=sharing)  
+🔹 [Business Analytics Project –Excel ](https://github.com/camblythe1/Business-Analytics-Project/blob/main/E-commerce%20project.txt)
 This project analyzes customer purchasing patterns for an e-commerce company to uncover insights that can drive marketing, inventory, and retention strategies. Using historical transaction data, we explored key metrics such as customer lifetime value (CLV), average order value (AOV), purchase frequency, and seasonal trends.
 
 🔹 [Shopify App Analysis Project – Power BI ](https://github.com/camblythe1/https://docs.google.com/spreadsheets/d/1uHUIXHBl6IhguRGeGUVuLxsCodFVTShxccOW_2_4dfM/edit?usp=sharing)  
