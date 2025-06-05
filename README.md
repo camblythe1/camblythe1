@@ -41,8 +41,21 @@ The retention decline suggests potential product quality or satisfaction issues,
 
 Findings were used to recommend improvements to product quality and post-purchase experience, as well as a deeper review of the purchase funnel drop-off points.
 
-🔹 [Shopify App Analysis Project – Power BI ](https://github.com/camblythe1/https://docs.google.com/spreadsheets/d/1uHUIXHBl6IhguRGeGUVuLxsCodFVTShxccOW_2_4dfM/edit?usp=sharing)  
-A project to analyze user interaction data from a Shopify-integrated app to better understand customer behavior, improve user experience, and drive app engagement and retention.
+🔹 [Airbnb Market Analysi Project – Excel ](https://github.com/camblythe1/https://docs.google.com/spreadsheets/d/1uHUIXHBl6IhguRGeGUVuLxsCodFVTShxccOW_2_4dfM/edit?usp=sharing)  
+Airbnb Market Analysis Project
+Conducted an analysis to identify the most attractive neighborhoods and property sizes for vacation rentals, as well as the top revenue-generating listings. Utilized cleaned Airbnb data to uncover trends in demand and profitability. Delivered actionable insights to support client decisions on investment locations and optimal property configurations.
 
+Key Insights
+Harlem has the highest number of properties listed, totaling 445, making it the most saturated neighborhood in the dataset.
+
+1-bedroom units are the most attractive property size, with 1,265 listings, indicating high demand or availability.
+
+Based on Visual C, Listing ID 499465519 is the top-earning listing, generating a monthly revenue of $29,940.
+
+Break down Harlem’s listings by property size to understand which unit types are driving the high volume and whether certain sizes are more profitable within the neighborhood.
+
+Since 1-bedroom units are the most common, further investigate why they are in high demand—this could involve analyzing their locations, pricing, occupancy rates, or guest reviews to identify key success factors.
+
+Investigate Listing ID 499465519 to understand the factors behind its top performance. Determine the neighborhood it's located in, the property features, pricing strategy, and customer feedback to identify patterns that can be replicated in other listings.
 ## 📫 How to reach me
 [LinkedIn](https://www.linkedin.com/in/cameron-blythe888) • [Email](Cameronblythe1@email.com)
