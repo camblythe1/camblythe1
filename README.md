@@ -41,7 +41,7 @@ The retention decline suggests potential product quality or satisfaction issues,
 
 Findings were used to recommend improvements to product quality and post-purchase experience, as well as a deeper review of the purchase funnel drop-off points.
 
-🔹 [Airbnb Market Analysi Project – Excel ](https://github.com/)  
+🔹 [Airbnb Market Analysi Project – Excel ](https://github.com/Airbnb Market Analysis.txt)  
 Airbnb Market Analysis Project
 Conducted an analysis to identify the most attractive neighborhoods and property sizes for vacation rentals, as well as the top revenue-generating listings. Utilized cleaned Airbnb data to uncover trends in demand and profitability. Delivered actionable insights to support client decisions on investment locations and optimal property configurations.
 
