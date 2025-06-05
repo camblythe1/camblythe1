@@ -12,8 +12,22 @@ I'm a Business Intelligence Analyst passionate about turning data into actionabl
 🔹 [Restaurant Analysis Project – Tableau](https://github.com/camblythe1/Restaurant-analysis-)  
 A restaurant analysis project using data from Zamoto on Tableau to show what restaurants are popular and what restaurants generate the most revenue.
 
+Key Insights – Restaurant Analysis (2017–2020)
+Tools used: Tableau, Data Visualization, Descriptive Analytics
+
+Fast Food and Indian-Chinese cuisines demonstrated the highest and most consistent sales revenue, generating over $90M and $79M respectively across four years—indicating strong market demand and scalability for a hybrid franchise.
+
+Chain expansion strategy is directly tied to revenue success; for example, Domino’s, operating in 442+ cities, earned over $5M in revenue, outperforming smaller competitors regardless of rating.
+
+Niche-style restaurants, while receiving higher average customer ratings (e.g., Gracie Italia rated 5.0), generated significantly lower sales revenue (e.g., $46K), showing that popularity does not always translate into profitability.
+
+Despite modest growth in median sales revenue ($495 → $565) and average revenue ($6,086 → $6,628), the data highlights a disparity in earnings—with large chains disproportionately capturing market share, reinforcing the advantage of brand scale and location volume.
+
+
+
 🔹 [Business Analytics Project –Excel ](https://github.com/camblythe1/Business-Analytics-Project/blob/main/E-commerce%20project.txt)
 This project analyzes customer purchasing patterns for an e-commerce company to uncover insights that can drive marketing, inventory, and retention strategies. Using historical transaction data, we explored key metrics such as customer lifetime value (CLV), average order value (AOV), purchase frequency, and seasonal trends.
+
 Key Insights – Conversion Funnel & Retention Analysis (Excel-Based)
 Tools used: Excel, Cohort Analysis, Funnel Metrics
 
